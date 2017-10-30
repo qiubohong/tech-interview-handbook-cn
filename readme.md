@@ -60,9 +60,12 @@
 - [Yangshun Tay](https://github.com/yangshun)
 - [Louie Tan](https://github.com/louietyj)
 
+## 原文地址
+
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook/)
+
 ## 翻译
 - [邱柏宏](https://github.com/qiubohong)
-
 
 
 
