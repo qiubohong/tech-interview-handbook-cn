@@ -5,8 +5,8 @@
 目前我们还正在策划系统设计问题。
 当然，除了通常的算法问题，我们还编写了其他令人敬畏的面试相关问题：
 
-- [《如何准备面试？》] (https://github.com/yangshun/tech-interview-handbook/tree/master/preparing)
-- [《面试要求列表》（直接描述出哪些应该做和哪些不应该做）] (https://github.com/yangshun/tech-interview-handbook/blob/master/preparing/cheatsheet.md)
+- [《如何准备面试？》](https://github.com/yangshun/tech-interview-handbook/tree/master/preparing)
+- [《面试要求列表》（直接描述出哪些应该做和哪些不应该做）](https://github.com/yangshun/tech-interview-handbook/blob/master/preparing/cheatsheet.md)
 - [《数据结构和最佳实践的相关问题》（按主题分类）](https://github.com/yangshun/tech-interview-handbook/blob/master/algorithms)
 - [《“前端相关面试问题”答案》](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md)
 - [《大公司的面试流程》](#)
